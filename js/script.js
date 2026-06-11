@@ -1,11 +1,11 @@
 // Rest Operator
 
-// function convidados(...nomes) {
-//     console.log("Seja bem vindo");
-//     console.log(nomes)
-// }
+ function convidados(...nomes) {
+   console.log("Seja bem vindo");
+    console.log(nomes)
+ }
 
-// convidados("Lucas","João","Marcos", "Mario Silva");
+ convidados("Lucas","João","Marcos", "Mario Silva");
 
 
 function  soteador(...numeros) {
